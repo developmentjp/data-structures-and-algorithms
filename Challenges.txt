@@ -1,0 +1,1 @@
+1. Delete a specific number in a linked list
